@@ -4,3 +4,7 @@
 
 Part 2：模型与管理后台
 [目前进度](http://www.liujiangblog.com/)
+
+* 默认账号:admin
+
+* 预设密码:django123
